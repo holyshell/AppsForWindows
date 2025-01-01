@@ -34,6 +34,8 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader)：轻量级 PDF 阅读工具，还支持 epub、cbz、chm、DjVu、XPS 等格式。
 
+[LocalSend](https://localsend.org/zh-CN)：去中心化、端到端加密的文件传输工具，跨平台。
+
 [GeekUninstaller](https://geekuninstaller.com/)：软件卸载工具，支持卸载微软商店的应用。
 
 [ImageGlass](https://imageglass.org/)：看图工具，可选产品有 [IrfanView](https://www.irfanview.com/) 或 [FSViewer](https://www.faststone.org/FSViewerDetail.htm) 。
