@@ -28,6 +28,8 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 [PotPlayer](https://potplayer.daum.net/?lang=zh_CN)：全能视频播放器，可选产品有 [VLC](https://www.videolan.org/vlc/)、[mpc-hc](https://github.com/clsid2/mpc-hc) 或 [MPC-BE](https://github.com/Aleksoid1978/MPC-BE)。
 
+[Foobar2000](https://www.foobar2000.org/)：音频播放器，跨平台，可选产品有 [Dopamine](https://github.com/digimezzo/dopamine)。
+
 [Everything](https://www.voidtools.com/zh-cn/)：文件/文件夹定位工具，极速查找文件，支持语法。
 
 [Weasel](https://github.com/rime/weasel)：小狼毫输入法，高度定制化，跨平台。
