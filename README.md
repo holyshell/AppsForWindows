@@ -74,3 +74,5 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 [Optimizer](https://github.com/hellzerg/optimizer)：系统级隐私和安全配置优化工具，建议首次安装系统之后使用。
 
+[Ambie](https://github.com/jenius-apps/ambie)：白噪音工具。
+
