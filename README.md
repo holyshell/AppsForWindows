@@ -24,15 +24,15 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 [PowerToys](https://github.com/microsoft/PowerToys)：微软出品的效率工具，可选产品有 [Listary](https://www.listary.com/)、[Wox ](https://github.com/Wox-launcher/Wox) 或 [uTools](https://u.tools/) 。
 
-[ShareX](https://getsharex.com/)：截图工具，支持截图、标注、贴图、OCR等，可选产品有 [Snipaste](https://zh.snipaste.com/)。
+[ShareX](https://getsharex.com/)：截图工具，支持截图、标注、贴图、OCR 等，可选产品有 [Snipaste](https://zh.snipaste.com/)。
 
 [PotPlayer](https://potplayer.daum.net/?lang=zh_CN)：全能视频播放器，可选产品有 [VLC](https://www.videolan.org/vlc/) 或 [mpc-hc](https://github.com/clsid2/mpc-hc)。
 
 [Everything](https://www.voidtools.com/zh-cn/)：文件/文件夹定位工具，极速查找文件，支持语法。
 
-[Ditto](https://ditto-cp.sourceforge.io/)：剪切板管理工具，支持同步。
+[Ditto](https://ditto-cp.sourceforge.io/)：剪切板管理工具，支持同步，可选产品有 [CopyQ](https://github.com/hluk/CopyQ)。
 
-[Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader)：轻量级PDF阅读工具，还支持epub、cbz、chm、DjVu、XPS等格式。
+[Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader)：轻量级 PDF 阅读工具，还支持 epub、cbz、chm、DjVu、XPS 等格式。
 
 [GeekUninstaller](https://geekuninstaller.com/)：软件卸载工具，支持卸载微软商店的应用。
 
@@ -50,11 +50,15 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 [Rufus](https://rufus.ie/zh/)：格式化和创建USB启动盘工具，可选产品有 [Ventoy](https://www.ventoy.net/cn/) 或 [UNetbootin](https://unetbootin.github.io/) 。
 
-[ScreenToGif](https://www.screentogif.com/)：录屏、摄像头、白板于一体的录制工具。
+[ScreenToGif](https://www.screentogif.com/)：录屏、摄像头、白板于一体的录制和编辑工具。
 
-[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)：查看CPU、内存等相关的详细信息，同类产品还有 [GPU-Z](https://www.techpowerup.com/gpuz/) 。
+[Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)：离线 OCR 工具，支持截屏/批量导入图片，PDF 文档识别等。
+
+[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)：查看 CPU、内存等相关的详细信息，同类产品还有 [GPU-Z](https://www.techpowerup.com/gpuz/) 。
 
 [AutoHotkey](https://www.autohotkey.com/)：通过简单的脚本来实现复杂的自动化任务。
 
 [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)：针对不同应用设置不同音量的工具。
+
+[Optimizer](https://github.com/hellzerg/optimizer)：系统级隐私和安全配置优化工具，建议首次安装系统之后使用。
 
