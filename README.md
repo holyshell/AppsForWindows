@@ -30,6 +30,8 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 [Everything](https://www.voidtools.com/zh-cn/)：文件/文件夹定位工具，极速查找文件，支持语法。
 
+[Weasel](https://github.com/rime/weasel)：小狼毫输入法，高度定制化，跨平台。
+
 [Ditto](https://ditto-cp.sourceforge.io/)：剪切板管理工具，支持同步，可选产品有 [CopyQ](https://github.com/hluk/CopyQ)。
 
 [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader)：轻量级 PDF 阅读工具，还支持 epub、cbz、chm、DjVu、XPS 等格式。
