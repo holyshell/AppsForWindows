@@ -38,7 +38,7 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 [ImageGlass](https://imageglass.org/)：看图工具，可选产品有 [IrfanView](https://www.irfanview.com/) 或 [FSViewer](https://www.faststone.org/FSViewerDetail.htm) 。
 
-[7-zip](https://www.7-zip.org/)：解压缩软件，支持多种格式，压缩率高，可选产品有 [PeaZip](https://peazip.github.io/) 或 [Bandizip 标准版](https://www.bandisoft.com/bandizip/)。
+[7-zip](https://www.7-zip.org/)：解压缩软件，支持多种格式，压缩率高，可选产品有 [PeaZip](https://peazip.github.io/) 或 [NanaZip](https://github.com/M2Team/NanaZip)。
 
 [NDM](https://www.neatdownloadmanager.com/index.php/en/)：多线程下载工具，支持浏览器插件进行流媒体下载，跨平台；可选产品有 [FDM](https://www.freedownloadmanager.org/zh/)、[qbittorrent-E](https://github.com/c0re100/qBittorrent-Enhanced-Edition)。
 
@@ -48,7 +48,7 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 [VeraCrypt](https://www.veracrypt.fr/en/Home.html)：磁盘加密工具，跨平台，可选产品有 [Cryptomator](https://github.com/cryptomator/cryptomator) 。
 
-[Rufus](https://rufus.ie/zh/)：格式化和创建USB启动盘工具，可选产品有 [Ventoy](https://www.ventoy.net/cn/) 或 [UNetbootin](https://unetbootin.github.io/) 。
+[Rufus](https://rufus.ie/zh/)：格式化和创建 USB 启动盘工具，可选产品有 [Ventoy](https://www.ventoy.net/cn/) 或 [UNetbootin](https://unetbootin.github.io/) 。
 
 [ScreenToGif](https://www.screentogif.com/)：录屏、摄像头、白板于一体的录制和编辑工具。
 
