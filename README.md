@@ -16,7 +16,7 @@
 
 ## Package manager
 
-Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft Store](https://apps.microsoft.com/)）和包管理器 [winget](https://github.com/microsoft/winget-cli) ；除此之外，还有第三方的 [Scoop](https://scoop.sh/) 和 [chocolatey](https://chocolatey.org/) ，如果你不习惯使用 CLI 类产品，也可以使用 [UniGetUI](https://github.com/marticliment/UniGetUI) 这样的图形化界面软件。
+Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft Store](https://apps.microsoft.com/)）和包管理器 [WinGet](https://github.com/microsoft/winget-cli) ；除此之外，还有第三方的 [Scoop](https://scoop.sh/) 和 [Chocolatey](https://chocolatey.org/) ，如果你不习惯使用 CLI 类产品，也可以使用 [UniGetUI](https://github.com/marticliment/UniGetUI) 这样的图形化界面软件。
 
 ## Apps
 
@@ -74,5 +74,5 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 [Optimizer](https://github.com/hellzerg/optimizer)：系统级隐私和安全配置优化工具，建议首次安装系统之后使用。
 
-[Ambie](https://github.com/jenius-apps/ambie)：白噪音工具。
+[Ambie](https://github.com/jenius-apps/ambie)：白噪音工具，帮助你放松和专注。
 
