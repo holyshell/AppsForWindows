@@ -4,7 +4,7 @@
 
 ## introduction
 
-自从使用 Macbook 以后，我就很少关注 Windows 系统的相关软件了，奈何身边还有很多使用 Windows 系统的朋友，时常会因为电脑使用问题向我求助，多数情况下是操作系统问题或软件问题，而普遍的一个现象是因为安装了流氓软件，索性就将 Windows 平台下的优秀软件也做一个记录，以备不时之需，如果你在使用 macOS ，可以[查看这里](https://github.com/holyshell/AppsForMac)获取 macOS 平台下优秀的软件，不定时更新。
+自从使用 Macbook 以后，我就很少关注 Windows 系统的相关软件了，奈何身边还有很多使用 Windows 系统的朋友，时常会因为流氓软件的困扰而向我求助，所以将 Windows 平台下的优秀软件也做一个记录，以备不时之需，如果你在使用 macOS ，可以[查看这里](https://github.com/holyshell/AppsForMac)获取 macOS 平台下优秀的软件，不定时更新。
 
 - 以开源或免费软件为主；
 - 优先选择图形界面软件，也包含 CLI（命令行界面）和 Web 产品；
