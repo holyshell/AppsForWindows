@@ -46,7 +46,7 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 [GeekUninstaller](https://geekuninstaller.com/)：软件卸载工具，支持卸载微软商店的应用。
 
-[ImageGlass](https://imageglass.org/)：看图工具，可选产品有 [IrfanView](https://www.irfanview.com/) 或 [FSViewer](https://www.faststone.org/FSViewerDetail.htm) 。
+[ImageGlass](https://imageglass.org/)：图片浏览工具，可选产品有 [IrfanView](https://www.irfanview.com/) 或 [FSViewer](https://www.faststone.org/FSViewerDetail.htm) 。
 
 [7-zip](https://www.7-zip.org/)：解压缩软件，支持多种格式，压缩率高，可选产品有 [PeaZip](https://peazip.github.io/) 或 [NanaZip](https://github.com/M2Team/NanaZip)。
 
@@ -54,7 +54,7 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html)：磁盘空间分析工具，快速找到占用大的文件/文件夹，可选产品有 [WizTree](https://wiztree.en.lo4d.com/windows) 。
 
-[Files](https://files.community/)：现代化的文件管理工具，支持打标签、多面板、Git集成等。
+[Files](https://files.community/)：现代化的文件管理工具，支持打标签、多面板、Git 集成等。
 
 [KeePass](https://keepass.info/download.html)：密码管理工具，跨平台，可选产品有 [Enpass](https://www.enpass.io/personal/) 。
 
