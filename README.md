@@ -50,7 +50,7 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html)：磁盘空间分析工具，快速找到占用大的文件/文件夹，可选产品有 [WizTree](https://wiztree.en.lo4d.com/windows) 。
 
-[KeePass](https://keepass.info/download.html)：密码管理工具，跨平台。
+[KeePass](https://keepass.info/download.html)：密码管理工具，跨平台，可选产品有 [Enpass](https://www.enpass.io/personal/) 。
 
 [VeraCrypt](https://www.veracrypt.fr/en/Home.html)：磁盘加密工具，跨平台，可选产品有 [Cryptomator](https://github.com/cryptomator/cryptomator) 。
 
