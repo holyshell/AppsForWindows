@@ -26,7 +26,7 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 [ShareX](https://getsharex.com/)：截图工具，支持截图、标注、贴图、OCR 等，可选产品有 [Snipaste](https://zh.snipaste.com/)。
 
-[PotPlayer](https://potplayer.daum.net/?lang=zh_CN)：全能视频播放器，可选产品有 [VLC](https://www.videolan.org/vlc/) 或 [mpc-hc](https://github.com/clsid2/mpc-hc)。
+[PotPlayer](https://potplayer.daum.net/?lang=zh_CN)：全能视频播放器，可选产品有 [VLC](https://www.videolan.org/vlc/)、[mpc-hc](https://github.com/clsid2/mpc-hc) 或 [MPC-BE](https://github.com/Aleksoid1978/MPC-BE)。
 
 [Everything](https://www.voidtools.com/zh-cn/)：文件/文件夹定位工具，极速查找文件，支持语法。
 
