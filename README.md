@@ -72,7 +72,7 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)：针对不同应用设置不同音量的工具。
 
-[Optimizer](https://github.com/hellzerg/optimizer)：系统级隐私和安全配置优化工具，建议首次安装系统之后使用。
+[Optimizer](https://github.com/hellzerg/optimizer)：系统级隐私和安全配置优化工具，建议首次安装系统之后使用，可选产品有 [RyTuneX](https://github.com/rayenghanmi/RyTuneX)。
 
 [Ambie](https://github.com/jenius-apps/ambie)：白噪音工具，帮助你放松和专注。
 
