@@ -75,6 +75,8 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 [Optimizer](https://github.com/hellzerg/optimizer)：系统级隐私和安全配置优化工具，建议首次安装系统之后使用，可选产品有 [RyTuneX](https://github.com/rayenghanmi/RyTuneX)。
 
+[Win11Debloat](https://github.com/Raphire/Win11Debloat)：通过一条命令为系统瘦身，删减不必要的自带软件或组件。
+
 [Ambie](https://github.com/jenius-apps/ambie)：白噪音工具，帮助你放松和专注。
 
 ## Best wishes
